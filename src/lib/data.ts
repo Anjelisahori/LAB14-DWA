@@ -34,12 +34,18 @@ export const projects: Project[] = [
 
 export const personalInfo = {
   name: 'Anjeli Verastigue',
-  title: 'Full Stack Developer',
-  description: 'Desarrollador apasionado por crear experiencias web excepcionales',
-  email: 'tu@email.com',
-  github: 'https://github.com/tuusuario',
-  linkedin: 'https://linkedin.com/in/tuusuario',
-  siteUrl: 'https://tuportafolio.com',
+  title: 'Desarrolladora Full Stack',
+  description: 'Desarrolladora apasionada por crear experiencias web innovadoras y funcionales',
+  email: 'anjeli.verastigue@email.com', // Actualiza con tu email real
+  github: 'https://github.com/anjeliverastigue', // Actualiza con tu usuario de GitHub
+  linkedin: 'https://linkedin.com/in/anjeli-verastigue', // Actualiza con tu perfil de LinkedIn
+  siteUrl: 'https://anjeli-portfolio.com', // Actualiza con tu dominio
   avatar: 'https://plus.unsplash.com/premium_photo-1689568126014-06fea9d5d341?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  // Información adicional de contacto
+  phone: '+51 999 999 999', // Opcional: agrega tu teléfono si lo deseas
+  location: 'Lima, Perú',
+  social: {
+    twitter: 'https://twitter.com/anjeliverastigue', // Opcional
+    instagram: 'https://instagram.com/anjeliverastigue', // Opcional
+  }
 };
-
